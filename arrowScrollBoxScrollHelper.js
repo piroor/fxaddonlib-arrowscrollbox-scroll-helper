@@ -20,9 +20,8 @@
      // 2nd argument: DOMNode, ID of an element, or local name of a child element
 
  license: The MIT License, Copyright (c) 2009 YUKI "Piro" Hiroshi
-   http://github.com/piroor/fxaddonlibs/blob/master/license.txt
  original:
-   http://github.com/piroor/fxaddonlibs/blob/master/arrowScrollBoxScrollHelper.js
+   http://github.com/piroor/fxaddonlib-arrowscrollbox-scroll-helper
 */
 (function() {
 	const currentRevision = 1;
